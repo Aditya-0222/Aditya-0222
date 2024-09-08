@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://aditya-0222.github.io/portfolio_aditya/](https://aditya-0222.github.io/portfolio_aditya/)
 
+- <p>To visit my profile<a href="https://linktr.ee/adityathakur10">Click Here</a></p>
+
 - 💬 Ask me about **Python, HTML, C and MySQL**
 
 - 📫 How to reach me **adityathakur6626@gmail.com**
@@ -29,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-022&show_icons=true&locale=en&layout=compact" alt="aditya-022" /></p>
 
-<a href="https://linktr.ee/adityathakur10">Link Tree</a>
+
