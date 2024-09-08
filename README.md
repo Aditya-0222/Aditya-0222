@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aditya-0222.github.io/portfolio_aditya/](https://aditya-0222.github.io/portfolio_aditya/)
 
-- <p>To visit my profile<a href="https://linktr.ee/adityathakur10">Click Here</a></p>
+- <p>To visit my profile<a href="https://linktr.ee/adityathakur10">  Click Here</a></p>
 
 - 💬 Ask me about **Python, HTML, C and MySQL**
 
